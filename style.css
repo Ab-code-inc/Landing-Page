@@ -164,6 +164,7 @@ img{
     color: white;
     border-radius: 20px;
     padding: 40px;
+    gap: 20px;
 }
 
 .text-1{
@@ -171,7 +172,7 @@ img{
     display: flex;
     flex-direction: column;
     padding-left: 90px;
-    gap: 10px;
+    flex-wrap: wrap;
 }
 
     
