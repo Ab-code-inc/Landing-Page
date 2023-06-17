@@ -184,7 +184,7 @@ img{
     border-radius: 10px;
     font-weight: bold;
     font-size: medium; 
-    width: fit-content;
+    max-width: 300px;
 }
 
 .button-2{
